@@ -1,0 +1,16 @@
+Django>=5.0
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+python-decouple
+dj-database-url
+psycopg2-binary
+langchain
+langchain-google-genai
+langchain-postgres
+google-generativeai
+pgvector
+geopy
+requests
+python-docx
+pypdf
