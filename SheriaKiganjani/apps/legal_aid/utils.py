@@ -7,6 +7,9 @@ CATEGORY_MAPPING = {
     'Basic Rights': 'human_rights',
     'Land Law': 'land',
     'Traffic Law': 'general',
+    'Environmental Law': 'general',
+    'Family Law': 'family',
+    'Constitutional Law': 'human_rights',
 }
 
 def get_referral_for_category(law_category):

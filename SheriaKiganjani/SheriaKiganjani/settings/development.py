@@ -14,3 +14,6 @@ DATABASES = {
 
 
 CORS_ALLOW_ALL_ORIGINS = True  # Only for development
+
+# Google OAuth
+GOOGLE_CLIENT_ID = '59314419071-joo08eb568esk2rs1vh2sicd057lv5dd.apps.googleusercontent.com'
